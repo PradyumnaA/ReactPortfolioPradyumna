@@ -9,9 +9,12 @@ const App=()=>{
                 bg-no-repeat
                 bg-center'>
                     <Navbar/>
-                    <br />
+
                     <Hero/>
                 </div>
+                <br/>
+                <br/>
+                <br/>
                 <About/>
                 <br/>
                 <Experience/>
