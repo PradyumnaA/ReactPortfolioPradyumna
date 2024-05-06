@@ -30,7 +30,9 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-
+import MachineLearning from "./MachineLearning.png";
+import Python from "./Python.png";
+import TA from "./TA.png"
 export {
   logo,
   backend,
@@ -60,5 +62,8 @@ export {
   carrent,
   jobit,
   tripguide,
-  logoColor
+  logoColor,
+  MachineLearning,
+  Python,
+    TA
 };

@@ -24,6 +24,9 @@ import {
     jobit,
     tripguide,
     threejs,
+    MachineLearning,
+    Python,
+    TA
 } from "../assets";
 
 export const navLinks = [
@@ -50,14 +53,19 @@ const services = [
         title: "React Native Developer",
         icon: mobile,
     },
+
     {
-        title: "Backend Developer",
-        icon: backend,
+        title:"Machine Learning Engineer",
+        icon: MachineLearning
     },
     {
-        title: "Content Creator",
-        icon: creator,
+        title:"Python Developer",
+        icon: Python
     },
+    {
+        title:"Teaching Assistant",
+        icon: TA
+    }
 ];
 
 const technologies = [
